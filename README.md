@@ -189,6 +189,71 @@ The Secondary font I chose was **Lato**
 - Usage: Body text, detailed descriptions, and secondary content.
 - Reason: Lato is a sleek, sans-serif font that pairs well with Playfair Display, offering readability and a contemporary feel.
 
+### Imagery
+
+As the website is a public facing entity a large corporation, the imagery has to refelt that, showing large scale projects and cities and to impart a sense of scale. The images also need to be of professional qiuality and cannot distract from the accesibililty of the page
+
+### Wireframes
+
+The wireframes for this project were created using Balsamiq and made for desktop, tablet and mobile.
+
+### Home Page Wireframes
+
+#### Desktop
+
+![Home Page Wireframe Desktop](documentation/wireframes/home-page-wireframe-desktop.png)
+
+#### Tablet
+
+![Home Page Wireframe Desktop](documentation/wireframes/home-page-wireframe-tablet.png)
+
+#### Mobile
+
+![Home Page Wireframe Desktop](documentation/wireframes/home-page-wireframe-mobile.png)
+
+### About Us Wireframes
+
+#### Desktop
+
+![Home Page Wireframe Desktop](documentation/wireframes/about-us-page-wireframe-desktop.png)
+
+#### Tablet
+
+![Home Page Wireframe Desktop](documentation/wireframes/about-us-page-wireframe-tablet.png)
+
+#### Mobile
+
+![Home Page Wireframe Desktop](documentation/wireframes/about-us-page-wireframe-mobile.png)
+
+### Corporate Resposibility Wireframes
+
+#### Desktop
+
+![Home Page Wireframe Desktop](documentation/wireframes/corporate-responsibility-page-wireframe-desktop.png)
+
+#### Tablet
+
+![Home Page Wireframe Desktop](documentation/wireframes/corporate-responsibility-page-wireframe-tablet.png)
+
+#### Mobile
+
+![Home Page Wireframe Desktop](documentation/wireframes/corporate-responsibility-page-wireframe-mobile.png)
+
+### Subsidiaries Wireframes
+
+#### Desktop
+
+![Home Page Wireframe Desktop](documentation/wireframes/subsidiaries-page-wireframe-desktop.png)
+
+#### Tablet
+
+![Home Page Wireframe Desktop](documentation/wireframes/subsidiaries-page-wireframe-tablet.png)
+
+#### Mobile
+
+![Home Page Wireframe Desktop](documentation/wireframes/subsidiaries-page-wireframe-mobile.png)
+
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
