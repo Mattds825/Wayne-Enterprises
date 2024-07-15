@@ -143,7 +143,33 @@ Acceptance Criteria
 - Header, Footer
     - Each page contains a footer with links to the "Investor Relations," "About Us," and "Newsletter Signup" sections, ensuring easy navigation.
 
---- 
+---
+
+## Design
+
+### Color Pallete
+
+For this project the color pallette should be dark and modern. It should evoke professionalism and business. There should be plenty of contrast and readability. The pallette should also be appropriately represent the dark aesthitic of the DC Universe Gotham in which the company has its history. 
+
+The bakcground colors I chose
+- #1a1a1a;
+- #292929;
+- #404040;
+
+The primary colors I have uses in the site are
+- #3b4252;
+- #666d7e;
+- #c4ccdf;
+
+The accent colors I ahve uses are
+- #88c0d0;
+- #276271;
+
+The text colors I have used are
+- #FFFFFF;
+- #e0e0e0;
+
+![Wayne Enterprises Color Pallete](documentation/Color-Pallete-Wayne-Enterprises.png)
 
 ## Gitpod Reminders
 
