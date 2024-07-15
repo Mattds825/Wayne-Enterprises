@@ -254,6 +254,108 @@ The wireframes for this project were created using Balsamiq and made for desktop
 ![Home Page Wireframe Desktop](documentation/wireframes/subsidiaries-page-wireframe-mobile.png)
 
 
+## Features
+
+The Website will have the follwing pages: Home, About Us, Subsidiaries, Services & Products, Coorporate Resposibility, Investor Relations, Careers, Contact Us. 
+
+The MVP for the website will be the Home, About Us, Subsidiaries,  Coorporate Resposibility, Careers and Contact Us pages
+
+There will also be a work in progress template page that will be added to all the pages that do not meet the MVP 
+
+All these pages will be responsive as shown in the wireframe. They will also all share the following elements:
+
+- **Navbar**
+    - At the top of every page the user will find a navigation bar with the company logo on the left side and a link to each of the individual pages of the site on the top right. For mobiles this will be condensed in to the conventional 'Hamburger Icon' for ease of use.
+
+- **Footer**
+    - At the bottom of each page will be a footer that will contain copyright info, a link to sign up to the newsletter, links to impartant pages (careeres, coorporate resposibility, contact, about us) and favicon links for social media.
+
+### Home Page
+
+The home page is the first page the user will see. It will be clean and inviting and will containt the following elements:
+- Navbar and Footer
+- **Hero Section**: 
+    - Engaging background image that rrepresent company's global impact, mission statement, and a call-to-action button.
+- **News Section**: 
+    - Latest news headlines with links to full articles.
+
+### About Us Page
+- Navbar and footer
+- **Hero Section**
+    - Engaging background photo that represent the industries the company participates in and misson statement
+- **Corporate Values**: 
+    - Statements outlining the company's core values and mission.
+- **Company Timeline**:
+    - A timeline of the main events in the company's history
+- **Leadership Profiles**: 
+    - Photos and bios of key leadership figures like Bruce Wayne and Lucius Fox.
+
+### Corporate Resposibility
+- Navbar and Footer
+- **Three Tenets Section**:
+    - section that highlights the three main tentes of the company and with large icons
+- **Philanthropy Initiatives**: 
+    - Information on the company’s charitable activities.
+- **Environmental Sustainability**: 
+    - Shows three big section for three enviromental inniciatives, each with and images and descprition.
+- **Community Projects**: 
+    - Details on community involvement and projects. Has carousel of articles of community projects
+
+### Subsidiaries
+- Navbar and Footer
+- **Hero Section**
+    - Image that represent global reach and has text "Meet the Family"
+- **Subsidiaries Section**:
+    - Section with the three subsidiaries 
+    - **Wayne Technologies**: Description, image and learn more button.
+    - **Wayne Biotech**: Description, image and learn more button.
+    - **Wayne Aerospace**: Description, image and learn more button.
+- **Map Section**:
+    - Section with a map of the main location that the company has and a list with the name and location
+
+### Services and Products Page
+- Navabar and Footer
+- **Technology Solutions**: Detailed descriptions of products and services offered by Wayne Technologies.
+- **Healthcare Innovations**: Details on biotech products and services.
+- **Aerospace Projects**: Information on aerospace developments and innovations.
+
+### Financial Relations Page
+- Navbar and Footer
+- **Financial Reports**: 
+    - Access to financial statements, annual reports, and earnings calls.
+- **Stock Information**: 
+    - Current stock price and performance data.
+- **Press Releases**: 
+    - Latest press releases and media coverage.
+- **Newsletter Signup**: 
+    - Option to subscribe for regular updates.
+
+### Careers Page
+- Navabar and Footer
+- **Hero Section**:
+    - Hero section with background image showing a welcoming and exciting work environmnent and call to action
+- **Job Listings**: 
+    - List of current job openings with descriptions and application links.
+- **Employee Benefits**: 
+    - Overview of benefits offered to employees.
+- **Company Culture**: 
+    - Testimonials, work environment, and professional development opportunities.
+- **Internship Opportunities**: 
+    - Information on available internships.
+
+### Contact Us Page
+- Navbar and Footer
+- **Office Locations**: 
+    - Map and addresses of Wayne Enterprises’ offices.
+- **Contact Form**: 
+    - Fields for name, email, and message for general inquiries.
+- **Customer Support**: 
+    - Support contact information.
+- **Media Inquiries**: 
+    - Contact details for media inquiries.
+- **FAQ Section**
+    - Section with most frequently asked questions
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
