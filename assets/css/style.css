@@ -26,43 +26,123 @@ The text colors I have used are
 body {
     font-family: 'Lato', sans-serif;
     background-color: #1a1a1a;
+    margin: 0;
+    padding: 0;
 }
 
 /* Navbar */
 
-.navbar-brand{
+.navbar-brand {
     font-family: 'Playfair Display', serif;
     font-weight: lighter;
 }
 
-.navbar{
+.navbar {
     background-color: #666d7e;
 }
 
 
 /* Footer */
 
-footer{
+footer {
     background-color: #c4ccdf;
 }
 
-.footer-social-links a{
+.footer-social-links a {
     text-decoration: none;
 }
 
-.footer-link-item{
+.footer-link-item {
     color: #6e6e6e;
 }
 
-.footer-link-item:hover{
+.footer-link-item:hover {
     color: #979797;
 }
 
-.footer-logo h2{
+.footer-logo h2 {
     font-family: 'Playfair Display', serif;
 }
 
 /* Utils */
 .uppercase {
     text-transform: uppercase;
+}
+
+/* Home Page Hero */
+
+.hero-section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.hero-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    /* Adjust the opacity as needed */
+    z-index: 1;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+    color: #ECEFF4;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+.hero-content h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+}
+
+/* Buttons */
+
+.cta-button {
+    background-color: #88C0D0;
+    border: none;
+    border-radius: 8px;
+    color: #2E3440;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button--small {
+    font-size: 0.8em;
+    padding: 5px 10px;
+}
+
+.cta-button--large {
+    font-size: 1.4em;
+    padding: 10px 20px;
+}
+
+.cta-button:hover {
+    background-color: #6C8FA6;
 }
