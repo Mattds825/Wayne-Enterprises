@@ -356,6 +356,15 @@ The home page is the first page the user will see. It will be clean and inviting
 - **FAQ Section**
     - Section with most frequently asked questions
 
+
+## Credits
+
+### Code Used
+
+-> Navbar made from navabr template from [Bootrap](https://getbootstrap.com/docs/5.3/components/navbar/)
+
+-> Footer template from [MdBootstrap](https://mdbootstrap.com/docs/standard/navigation/footer/)
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
