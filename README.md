@@ -171,6 +171,24 @@ The text colors I have used are
 
 ![Wayne Enterprises Color Pallete](documentation/Color-Pallete-Wayne-Enterprises.png)
 
+### Typography 
+
+I used Google Fonts to import the fonts for the site
+
+The Primary font I chose was **Playfair Display**
+
+![Playfair Display Font Preview](documentation/playfair-display-font-preview.png)
+
+- Usage: Headings, navigation menus, and call-to-action buttons.
+- Reason: Playfair Display is a serif font that combines elegance and modernity, giving a distinguished look to the headings.
+
+The Secondary font I chose was **Lato**
+
+![Playfair Display Font Preview](documentation/lato-font-preview.png)
+
+- Usage: Body text, detailed descriptions, and secondary content.
+- Reason: Lato is a sleek, sans-serif font that pairs well with Playfair Display, offering readability and a contemporary feel.
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
