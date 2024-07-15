@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+/* 
+
+The bakcground colors I chose
+- #1a1a1a;
+- #292929;
+- #404040;
+
+The primary colors I have uses in the site are
+- #3b4252;
+- #666d7e;
+- #c4ccdf;
+
+The accent colors I ahve uses are
+- #88c0d0;
+- #276271;
+
+The text colors I have used are
+- #FFFFFF;
+- #e0e0e0;
+
+*/
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #1a1a1a;
+}
+
+/* Navbar */
+
+.navbar-brand{
+    font-family: 'Playfair Display', serif;
+    font-weight: lighter;
+}
+
+.navbar{
+    background-color: #666d7e;
+}
+
+
+/* Footer */
+
+footer{
+    background-color: #c4ccdf;
+}
+
+.footer-social-links a{
+    text-decoration: none;
+}
+
+.footer-link-item{
+    color: #6e6e6e;
+}
+
+.footer-link-item:hover{
+    color: #979797;
+}
+
+.footer-logo h2{
+    font-family: 'Playfair Display', serif;
+}
+
+/* Utils */
+.uppercase {
+    text-transform: uppercase;
+}
