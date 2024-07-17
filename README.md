@@ -380,3 +380,13 @@ To run a backend Python file, type `python3 app.py` if your Python file is named
 A blue button should appear to click: _Make Public_,
 
 Another blue button should appear to click: _Open Browser_.
+
+
+### Techonologies and Tools Used
+
+HTML
+CSS
+
+Bootstrap
+
+ChatGpt: for text contect on the website, e.g. article content

@@ -121,6 +121,32 @@ footer {
     margin-bottom: 30px;
 }
 
+/* Newsletter Section */
+
+.news-card-footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.news-card-title{
+    font-family: 'Playfair Display', serif;
+}
+
+.card-text{
+font-size: 0.9em;
+}
+
+.article-credits-text{
+    color: #e0e0e0;
+}
+
+/* Headings */
+
+.section-heading{
+    font-family: 'Playfair Display', serif;
+    color: #e0e0e0;
+}
+
 /* Buttons */
 
 .cta-button {
@@ -146,3 +172,21 @@ footer {
 .cta-button:hover {
     background-color: #6C8FA6;
 }
+
+.border-btn {
+    border: 2px solid #88C0D0;
+    color: #88C0D0;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .border-btn:hover {
+    background-color: #276271;
+  }
+
+  /* Utils */
+
+  .hr-light{
+    border: 1px solid #88C0D0;
+  }
