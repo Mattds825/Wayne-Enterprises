@@ -60,7 +60,7 @@ footer {
     color: #979797;
 }
 
-.footer-logo h2 {
+.footer-logo h4 {
     font-family: 'Playfair Display', serif;
 }
 
@@ -142,7 +142,15 @@ font-size: 0.9em;
 
 /* About Us Page */
 
+#values-section h2, 
+#values-section h3{
+    font-family: 'Playfair Display', serif;
+}
 
+#values-section h3{
+    font-family: 'Playfair Display', serif;
+    font-weight: 200;
+}
 
 /* Headings */
 
@@ -193,4 +201,8 @@ font-size: 0.9em;
 
   .hr-light{
     border: 1px solid #88C0D0;
+  }
+  
+  .icon-large{
+    font-size: 64px;
   }
