@@ -363,6 +363,8 @@ The home page is the first page the user will see. It will be clean and inviting
 
 Images takes from pexels.com
 
+Map SVG from ![simplemaps](https://simplemaps.com/resources/svg-world)
+
 ### Code Used
 
 -> Navbar made from navabr template from [Bootrap](https://getbootstrap.com/docs/5.3/components/navbar/)
@@ -371,6 +373,7 @@ Images takes from pexels.com
 
 -> Timeline template from [MdBootstrap](https://mdbootstrap.com/docs/standard/extended/timeline/)
 
+-> Inspiration for map with markers from this ![tutorial](https://www.youtube.com/watch?v=lxYqxlX_zHw)
 
 ### Techonologies and Tools Used
 
