@@ -152,6 +152,45 @@ footer {
     font-weight: 200;
 }
 
+/* Leardership Section */
+
+.leadership-section {
+    padding: 3rem 0;
+    background-color: #2E3440;
+    color: #ECEFF4;
+}
+
+.leadership-section h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+}
+
+.leadership-section .card {
+    background-color: #4C566A;
+    border: none;
+}
+
+.leadership-section .card .card-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+    margin-top: 1rem;
+}
+
+.leadership-section .card .card-text {
+    font-size: 1em;
+    margin-top: 0.5rem;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    /* background-color: #88C0D0; */
+    color: #88C0D0;
+}
+
+.carousel-indicators li {
+    /* background-color: #88C0D0; */
+    color: #88C0D0;
+}
 /* Headings */
 
 .section-heading {

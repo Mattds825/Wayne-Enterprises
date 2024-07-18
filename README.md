@@ -383,6 +383,8 @@ ChatGpt: for text contect on the website, e.g. article content
 
 Pixelmator Pro - Used to edit timeline photos to make them apear era authentic
 
+![Perchance](https://perchance.org/ai-photo-generator) image generator used to make profile pictures for leadership figures
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
