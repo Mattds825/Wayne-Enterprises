@@ -69,7 +69,7 @@ footer {
     text-transform: uppercase;
 }
 
-/* Home Page Hero */
+/*  Hero Section */
 
 .hero-section {
     position: relative;
@@ -82,7 +82,26 @@ footer {
     overflow: hidden;
 }
 
+.hero-section--short{
+    height: 50vh;
+    background-size: contain;
+}
+
+.hero-section--short h3{
+    font-family: 'Playfair Display', serif;
+}
+
 .hero-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.hero-image {
     position: absolute;
     top: 50%;
     left: 50%;
