@@ -359,11 +359,29 @@ The home page is the first page the user will see. It will be clean and inviting
 
 ## Credits
 
+### Media
+
+Images takes from pexels.com
+
 ### Code Used
 
 -> Navbar made from navabr template from [Bootrap](https://getbootstrap.com/docs/5.3/components/navbar/)
 
 -> Footer template from [MdBootstrap](https://mdbootstrap.com/docs/standard/navigation/footer/)
+
+-> Timeline template from [MdBootstrap](https://mdbootstrap.com/docs/standard/extended/timeline/)
+
+
+### Techonologies and Tools Used
+
+HTML
+CSS
+
+Bootstrap
+
+ChatGpt: for text contect on the website, e.g. article content
+
+Pixelmator Pro - Used to edit timeline photos to make them apear era authentic
 
 ## Gitpod Reminders
 
@@ -382,11 +400,3 @@ A blue button should appear to click: _Make Public_,
 Another blue button should appear to click: _Open Browser_.
 
 
-### Techonologies and Tools Used
-
-HTML
-CSS
-
-Bootstrap
-
-ChatGpt: for text contect on the website, e.g. article content
