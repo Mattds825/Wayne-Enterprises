@@ -375,6 +375,10 @@ Map SVG from ![simplemaps](https://simplemaps.com/resources/svg-world)
 
 -> Inspiration for map with markers from this ![tutorial](https://www.youtube.com/watch?v=lxYqxlX_zHw)
 
+-> Inspiration for three-tentes section overlay image box from this stackoverflow ![thread](https://stackoverflow.com/questions/49354906/overlay-image-with-text-with-bootstrap-4)
+
+-> Template for according in philantropic work section taken from ![Bootstrap](https://getbootstrap.com/docs/5.0/components/accordion/)
+
 ### Techonologies and Tools Used
 
 HTML
