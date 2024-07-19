@@ -384,6 +384,22 @@ footer {
     font-family: 'Playfair Display', serif;
 }
 
+.transparent-card{
+    opacity: 0.5;
+    background-color: blue;
+}
+
+.env-initiatives-section .card-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+}
+
+.env-initiatives-section h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
 /* Headings */
 
 .section-heading {
