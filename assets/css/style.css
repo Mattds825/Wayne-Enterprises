@@ -400,6 +400,12 @@ footer {
     font-style: italic;
 }
 
+.community-projects-section h2{
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 300;
+}
+
 /* Headings */
 
 .section-heading {
