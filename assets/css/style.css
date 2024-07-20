@@ -445,6 +445,10 @@ footer {
     color: #fff;
 }
 
+.faq-section h2{
+    font-family: 'Playfair Display', serif;
+}
+
 /* Headings */
 
 .section-heading {
@@ -491,6 +495,10 @@ footer {
 }
 
 /* Utils */
+
+.accordion-button:not(.collapsed){
+    background-color: #88C0D0;
+}
 
 .hr-light {
     border: 1px solid #88C0D0;
