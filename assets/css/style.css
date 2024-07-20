@@ -425,6 +425,26 @@ footer {
     font-size: 64px;
 }
 
+.contact-section {
+    padding: 50px 0;
+}
+
+.contact-section h3,
+.contact-section h2{
+    font-family: 'Playfair Display', serif;
+    color: #e0e0e0;
+}
+
+.contact-section .contact-info-box{
+    padding: 12px;
+    background-color: #3b4252;
+    border-radius: 8px;
+}
+
+.contact-section {
+    color: #fff;
+}
+
 /* Headings */
 
 .section-heading {
