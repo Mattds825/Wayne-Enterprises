@@ -449,6 +449,12 @@ footer {
     font-family: 'Playfair Display', serif;
 }
 
+/* Investor Relations Page */
+.financial-section h2{
+    font-family: 'Playfair Display', serif;
+    color: #e0e0e0;
+}
+
 /* Headings */
 
 .section-heading {
