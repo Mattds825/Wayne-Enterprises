@@ -84,7 +84,12 @@ footer {
 
 .hero-section--short {
     height: 50vh;
-    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background-size: cover;
+    background-repeat: space;
+    background-clip: border-box; */
 }
 
 .hero-section--short h3 {
@@ -132,6 +137,12 @@ footer {
 .hero-content h1 {
     font-family: 'Playfair Display', serif;
     font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero-content h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
     margin-bottom: 20px;
 }
 
@@ -404,6 +415,14 @@ footer {
     font-family: 'Playfair Display';
     font-style: italic;
     font-weight: 300;
+}
+
+/* Contact Us Page */
+
+.contact-hero-icon{
+    height: 64px;
+    width: 64px;
+    font-size: 64px;
 }
 
 /* Headings */
