@@ -379,6 +379,8 @@ Map SVG from ![simplemaps](https://simplemaps.com/resources/svg-world)
 
 -> Template for according in philantropic work section taken from ![Bootstrap](https://getbootstrap.com/docs/5.0/components/accordion/)
 
+-> Template for Internship Sign Up section take from ![Bootstrap](https://getbootstrap.com/docs/5.0/examples/heroes/)
+
 ### Techonologies and Tools Used
 
 HTML
