@@ -482,6 +482,19 @@ footer {
 }
 
 
+.border-span{
+    /* border: 1px solid black; */
+    padding: 0.3em;
+    color: #276271;
+    border: 1px solid #276271;
+    padding: 5px 12px;
+    display: inline-block;
+}
+
+.border-span:hover{
+    background-color: #276271;
+    color: white;
+}
 
 /* Headings */
 
