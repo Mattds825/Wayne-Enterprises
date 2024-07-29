@@ -379,6 +379,8 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 
 -> [contact-us.html](documentation/w3c-html-test/contact-us-html-test-post.pdf): Passed all tests
 
+-> [careers.html](documentation/w3c-html-test/careers-html-test-post.pdf): Passed all tests
+
 ## Credits
 
 ### Media
