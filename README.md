@@ -365,17 +365,18 @@ The home page is the first page the user will see. It will be clean and inviting
 
 please refer to the w3c-html-tests folder in the the documentation folder to view detailed test before and after changes
 
--> [Index.html](documentation/w3c-html-test/index-html-test-post.pdf): Passed all tests
+-> [index.html](documentation/w3c-html-test/index-html-test-post.pdf): Passed all tests
+-> [about-us.html](documentation/w3c-html-test/about-us-html-test-post.pdf): Passed all tests
 
 ## Credits
 
 ### Media
 
-Images taken from ![pexels.com](https://www.pexels.com/)
+Images taken from [pexels.com](https://www.pexels.com/)
 
-Video taken from ![pixabay.com](https://pixabay.com/)
+Video taken from [pixabay.com](https://pixabay.com/)
 
-Map SVG from ![simplemaps](https://simplemaps.com/resources/svg-world)
+Map SVG from [simplemaps](https://simplemaps.com/resources/svg-world)
 
 ### Code Used
 
@@ -385,13 +386,13 @@ Map SVG from ![simplemaps](https://simplemaps.com/resources/svg-world)
 
 -> Timeline template from [MdBootstrap](https://mdbootstrap.com/docs/standard/extended/timeline/)
 
--> Inspiration for map with markers from this ![tutorial](https://www.youtube.com/watch?v=lxYqxlX_zHw)
+-> Inspiration for map with markers from this [tutorial](https://www.youtube.com/watch?v=lxYqxlX_zHw)
 
--> Inspiration for three-tentes section overlay image box from this stackoverflow ![thread](https://stackoverflow.com/questions/49354906/overlay-image-with-text-with-bootstrap-4)
+-> Inspiration for three-tentes section overlay image box from this stackoverflow [thread](https://stackoverflow.com/questions/49354906/overlay-image-with-text-with-bootstrap-4)
 
--> Template for according in philantropic work section taken from ![Bootstrap](https://getbootstrap.com/docs/5.0/components/accordion/)
+-> Template for according in philantropic work section taken from [Bootstrap](https://getbootstrap.com/docs/5.0/components/accordion/)
 
--> Template for Internship Sign Up section take from ![Bootstrap](https://getbootstrap.com/docs/5.0/examples/heroes/)
+-> Template for Internship Sign Up section take from [Bootstrap](https://getbootstrap.com/docs/5.0/examples/heroes/)
 
 ### Techonologies and Tools Used
 
