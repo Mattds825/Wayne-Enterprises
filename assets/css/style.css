@@ -517,6 +517,7 @@ footer {
     text-decoration: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    text-shadow: none;
 }
 
 .cta-button--small {
