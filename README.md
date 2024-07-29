@@ -363,12 +363,15 @@ The home page is the first page the user will see. It will be clean and inviting
 
 #### W3C HTML validator 
 
+used [W3C Nu HTML Checker](https://validator.w3.org/)
+
 please refer to the w3c-html-tests folder in the the documentation folder to view detailed tests before and after changes
 
 -> [index.html](documentation/w3c-html-test/index-html-test-post.pdf): Passed all tests
 -> [about-us.html](documentation/w3c-html-test/about-us-html-test-post.pdf): Passed all tests
 -> [subsidiaries.html](documentation/w3c-html-test/subsidiaries-html-test-post.pdf): Passed all test
 -> [corporate-responsibility.html](documentation/w3c-html-test/corporate-responsibility-html-test-post.pdf): Passed all tests
+-> [investor-relations.html](documentation/w3c-html-test/investor-relations-html-test-post.pdf): Passed all tests
 
 ## Credits
 
@@ -400,7 +403,9 @@ Map SVG from [simplemaps](https://simplemaps.com/resources/svg-world)
 
 Gitpod/Vscode: Used for code editing
 
-HTML/CSS
+Git/Github: Used for version control
+
+HTML/CSS: used for site structure and style
 
 [Bootstrap 5.3](https://getbootstrap.com/): Frontend framework used
 
