@@ -363,10 +363,11 @@ The home page is the first page the user will see. It will be clean and inviting
 
 #### W3C HTML validator 
 
-please refer to the w3c-html-tests folder in the the documentation folder to view detailed test before and after changes
+please refer to the w3c-html-tests folder in the the documentation folder to view detailed tests before and after changes
 
 -> [index.html](documentation/w3c-html-test/index-html-test-post.pdf): Passed all tests
 -> [about-us.html](documentation/w3c-html-test/about-us-html-test-post.pdf): Passed all tests
+-> [subsidiaries.html](documentation/w3c-html-test/subsidiaries-html-test-post.pdf): Passed all test
 
 ## Credits
 
