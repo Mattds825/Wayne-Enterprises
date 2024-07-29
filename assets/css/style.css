@@ -41,6 +41,11 @@ body {
     background-color: #666d7e;
 }
 
+.navbar img{
+    height: 36px;
+    width: 36px;
+}
+
 
 /* Footer */
 
@@ -114,6 +119,11 @@ footer {
     min-width: 100%;
     min-height: 100%;
     z-index: -1;
+}
+
+.hero-logo{
+    width:128px;
+    height:128px;
 }
 
 .video-overlay {
@@ -515,6 +525,7 @@ footer {
     border-radius: 8px;
     color: #2E3440;
     text-decoration: none;
+    text-align: center;
     cursor: pointer;
     transition: background-color 0.3s ease;
     text-shadow: none;

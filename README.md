@@ -357,11 +357,23 @@ The home page is the first page the user will see. It will be clean and inviting
     - Section with most frequently asked questions
 
 
+## Testing
+
+### Automated Testing 
+
+#### W3C HTML validator 
+
+please refer to the w3c-html-tests folder in the the documentation folder to view detailed test before and after changes
+
+-> [Index.html](documentation/w3c-html-test/index-html-test-post.pdf): Passed all tests
+
 ## Credits
 
 ### Media
 
-Images takes from pexels.com
+Images taken from ![pexels.com](https://www.pexels.com/)
+
+Video taken from ![pixabay.com](https://pixabay.com/)
 
 Map SVG from ![simplemaps](https://simplemaps.com/resources/svg-world)
 
@@ -383,8 +395,7 @@ Map SVG from ![simplemaps](https://simplemaps.com/resources/svg-world)
 
 ### Techonologies and Tools Used
 
-HTML
-CSS
+HTML/CSS
 
 Bootstrap
 
