@@ -409,6 +409,8 @@ Map SVG from [simplemaps](https://simplemaps.com/resources/svg-world)
 
 -> Template for Internship Sign Up section take from [Bootstrap](https://getbootstrap.com/docs/5.0/examples/heroes/)
 
+-> Followed this [tutorial](https://www.youtube.com/watch?v=sORoAeGhlj0) to make the elements animate on scroll in main.js file
+
 ### Techonologies and Tools Used
 
 Gitpod/Vscode: Used for code editing
