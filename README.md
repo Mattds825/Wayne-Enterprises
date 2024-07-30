@@ -199,60 +199,28 @@ The wireframes for this project were created using Balsamiq and made for desktop
 
 ### Home Page Wireframes
 
-#### Desktop
-
-![Home Page Wireframe Desktop](documentation/wireframes/home-page-wireframe-desktop.png)
-
-#### Tablet
-
-![Home Page Wireframe Desktop](documentation/wireframes/home-page-wireframe-tablet.png)
-
-#### Mobile
-
-![Home Page Wireframe Desktop](documentation/wireframes/home-page-wireframe-mobile.png)
+| Desktop | Tablet | Mobile|
+|:-:|:-:|:-:|
+|<img width="1604" alt="Home desktop" src="documentation/wireframes/home-page-wireframe-desktop.png">|<img width="1604" alt="Home Us tablet" src="documentation/wireframes/home-page-wireframe-tablet.png">|<img width="1604" alt="Home mobile" src="documentation/wireframes/home-page-wireframe-mobile.png">|
 
 ### About Us Wireframes
 
-#### Desktop
-
-![Home Page Wireframe Desktop](documentation/wireframes/about-us-page-wireframe-desktop.png)
-
-#### Tablet
-
-![Home Page Wireframe Desktop](documentation/wireframes/about-us-page-wireframe-tablet.png)
-
-#### Mobile
-
-![Home Page Wireframe Desktop](documentation/wireframes/about-us-page-wireframe-mobile.png)
+| Desktop | Tablet | Mobile|
+|:-:|:-:|:-:|
+|<img width="1604" alt="About Us desktop" src="documentation/wireframes/about-us-page-wireframe-desktop.png">|<img width="1604" alt="About Us tablet" src="documentation/wireframes/about-us-page-wireframe-tablet.png">|<img width="1604" alt="About Us mobile" src="documentation/wireframes/about-us-page-wireframe-mobile.png">|
 
 ### Corporate Resposibility Wireframes
 
-#### Desktop
-
-![Home Page Wireframe Desktop](documentation/wireframes/corporate-responsibility-page-wireframe-desktop.png)
-
-#### Tablet
-
-![Home Page Wireframe Desktop](documentation/wireframes/corporate-responsibility-page-wireframe-tablet.png)
-
-#### Mobile
-
-![Home Page Wireframe Desktop](documentation/wireframes/corporate-responsibility-page-wireframe-mobile.png)
+| Desktop | Tablet | Mobile|
+|:-:|:-:|:-:|
+|<img width="1604" alt="Corporate responsibility desktop" src="documentation/wireframes/corporate-responsibility-page-wireframe-desktop.png">|<img width="1604" alt="Corporate responsibility tablet" src="documentation/wireframes/corporate-responsibility-page-wireframe-tablet.png">|<img width="1604" alt="Corporate responsibility mobile" src="documentation/wireframes/corporate-responsibility-page-wireframe-mobile.png">|
 
 ### Subsidiaries Wireframes
 
-#### Desktop
 
-![Home Page Wireframe Desktop](documentation/wireframes/subsidiaries-page-wireframe-desktop.png)
-
-#### Tablet
-
-![Home Page Wireframe Desktop](documentation/wireframes/subsidiaries-page-wireframe-tablet.png)
-
-#### Mobile
-
-![Home Page Wireframe Desktop](documentation/wireframes/subsidiaries-page-wireframe-mobile.png)
-
+| Desktop | Tablet | Mobile|
+|:-:|:-:|:-:|
+|<img width="1604" alt="Subsidiaries desktop" src="documentation/wireframes/subsidiaries-page-wireframe-desktop.png">|<img width="1604" alt="Subsidiaries tablet" src="documentation/wireframes/subsidiaries-page-wireframe-tablet.png">|<img width="1604" alt="Subsidiaries mobile" src="documentation/wireframes/subsidiaries-page-wireframe-mobile.png">|
 
 ## Features
 
@@ -358,6 +326,12 @@ The home page is the first page the user will see. It will be clean and inviting
 
 
 ## Testing
+
+### Solved Bugs
+
+| Bug | Solution |
+| ---| ----|
+|hero video was not playing in mobile| added playsinline tag to video|
 
 ### Automated Testing 
 
