@@ -403,6 +403,8 @@ HTML/CSS: used for site structure and style
 
 [Perchance](https://perchance.org/ai-photo-generator) image generator used to make profile pictures for leadership figures
 
+[sqoosh.app](https://squoosh.app) used to compress images and convert them to webp
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
