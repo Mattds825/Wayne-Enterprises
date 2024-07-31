@@ -333,6 +333,8 @@ The home page is the first page the user will see. It will be clean and inviting
 | ---| ----|
 |hero video was not playing in mobile| added playsinline tag to video|
 
+
+
 ### Automated Testing 
 
 #### W3C HTML validator 
@@ -356,6 +358,18 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 -> [careers.html](documentation/w3c-html-test/careers-html-test-post.pdf): Passed all tests
 
 -> [under-construction.html](documentation/w3c-html-test/under-construction-html-test-post.pdf): Passed all tests
+
+### Perfomance Testing 
+
+--> insert lighthouse tests here 
+
+#### Steps Taken to improve performance
+
+-> converted problematic images to webp format
+
+-> compressed hero videos
+
+-> added poster tag to videos
 
 ## Credits
 
@@ -404,6 +418,8 @@ HTML/CSS: used for site structure and style
 [Perchance](https://perchance.org/ai-photo-generator) image generator used to make profile pictures for leadership figures
 
 [sqoosh.app](https://squoosh.app) used to compress images and convert them to webp
+
+[videosmaller.com]() used to compress videos 
 
 ## Gitpod Reminders
 
