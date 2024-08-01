@@ -2,6 +2,8 @@
 
 A website for the fictional conglomerate Wayne Enterprises
 
+![ScreenShot of Home Page Hero on different devices ](documentation/device-pages-screenshots/device-screenshots-home-page-1.jpg)
+
 - - -
 
 ## User Experience UX
@@ -230,100 +232,157 @@ The MVP for the website will be the Home, About Us, Subsidiaries,  Coorporate Re
 
 There will also be a work in progress template page that will be added to all the pages that do not meet the MVP 
 
+### All Pages
+
 All these pages will be responsive as shown in the wireframe. They will also all share the following elements:
 
 - **Navbar**
     - At the top of every page the user will find a navigation bar with the company logo on the left side and a link to each of the individual pages of the site on the top right. For mobiles this will be condensed in to the conventional 'Hamburger Icon' for ease of use.
+    ![Desktop and Tablet Navbar](documentation/compnent-sreenshots/compnent-sreenshots-navbar-desktop.png)
+    ![Mobile Navbar](documentation/compnent-sreenshots/compnent-sreenshots-navbar-mobile.png)
 
 - **Footer**
     - At the bottom of each page will be a footer that will contain copyright info, a link to sign up to the newsletter, links to impartant pages (careeres, coorporate resposibility, contact, about us) and favicon links for social media.
+
+    |Desktop|Tablet|Mobile|
+    |:-:|:-:|:-:|
+    |<img width="1604" alt="Desktop Footer" src="documentation/compnent-sreenshots/compnent-sreenshots-footer-desktop.png">|<img width="1604" alt="Tablet Footer" src="documentation/compnent-sreenshots/compnent-sreenshots-footer-tablet.png">|<img width="1604" alt="Mobile Footer" src="documentation/compnent-sreenshots/compnent-sreenshots-footer-mobile.png">|
 
 ### Home Page
 
 The home page is the first page the user will see. It will be clean and inviting and will containt the following elements:
 - Navbar and Footer
 - **Hero Section**: 
-    - Engaging background image that rrepresent company's global impact, mission statement, and a call-to-action button.
+    - Engaging background video that represent company's global impact, an icon, the company name, mission statement, and a call-to-action button.
+    ![ScreenShot of Home Page Hero on different devices ](documentation/device-pages-screenshots/device-screenshots-home-page-1.jpg)
 - **News Section**: 
     - Latest news headlines with links to full articles.
+    - On desktop and tablet these appear as 3 columns, on mobile these will apear as rows
+    ![ScreenShot of Home Page Newsletter on different devices ](documentation/device-pages-screenshots/device-screenshots-home-page-2.jpg)
+    - On thinner tablet devices the newsletter is made up of 2 column and a full width row
+    ![Newsletter on slimmer tablets](documentation/compnent-sreenshots/component-screenshot-newletter-tablet.png)    
 
 ### About Us Page
 - Navbar and footer
 - **Hero Section**
-    - Engaging background photo that represent the industries the company participates in and misson statement
-- **Corporate Values**: 
+    - Engaging background video that represent the industries the global scale of the company, a misson statement, and a call to action button
+    ![ScreenShot of About US Hero on different devices ](documentation/device-pages-screenshots/device-screenshots-about-us-page-1.jpg)
+- **Core Values**: 
     - Statements outlining the company's core values and mission.
+    ![ScreenShot of About US Core Values on different devices ](documentation/device-pages-screenshots/device-screenshots-about-us-page-2.jpg)
+    - On thinner tablet devices the core values section has a slighlty differnt layout
+    ![Core values on slimmer tablets](documentation/compnent-sreenshots/component-screenshot-core-values-tablet.png)    
 - **Company Timeline**:
     - A timeline of the main events in the company's history
+     ![ScreenShot of About Us Timeline on different devices ](documentation/device-pages-screenshots/device-screenshots-about-us-page-3.jpg)
 - **Leadership Profiles**: 
     - Photos and bios of key leadership figures like Bruce Wayne and Lucius Fox.
+    - On Larger devices like tablets and desktop these are shown as 3 columns and on mobile these are shown as a carousel
+    ![ScreenShot of About Us Leadership Section on different devices ](documentation/device-pages-screenshots/device-screenshots-about-us-page-4.jpg)
 
 ### Corporate Resposibility
 - Navbar and Footer
 - **Three Tenets Section**:
     - section that highlights the three main tentes of the company and with large icons
+    ![ScreenShot of Corporate Responsibility 3 Tenets Section on different devices ](documentation/device-pages-screenshots/device-screenshots-corporate-responsibility-page-1.jpg)
 - **Philanthropy Initiatives**: 
     - Information on the company’s charitable activities.
+    ![ScreenShot of Corporate Responsibility Philantropy Section on different devices ](documentation/device-pages-screenshots/device-screenshots-corporate-responsibility-page-2.jpg)
 - **Environmental Sustainability**: 
     - Shows three big section for three enviromental inniciatives, each with and images and descprition.
+    ![ScreenShot of Corporate Responsibility Environmental Iniciatives Section on different devices ](documentation/device-pages-screenshots/device-screenshots-corporate-responsibility-page-3.jpg)
 - **Community Projects**: 
     - Details on community involvement and projects. Has carousel of articles of community projects
+    ![ScreenShot of Corporate Responsibility Community Projects Section on different devices ](documentation/device-pages-screenshots/device-screenshots-corporate-responsibility-page-3.jpg)
 
 ### Subsidiaries
 - Navbar and Footer
 - **Hero Section**
     - Image that represent global reach and has text "Meet the Family"
+    ![ScreenShot of Corporate Subsidiaries Page Hero Section on different devices ](documentation/device-pages-screenshots/device-screenshots-subsidiaries-page-1.jpg)
 - **Subsidiaries Section**:
     - Section with the three subsidiaries 
+    - on desktop and tablet shown as three column and on mobile shown as three rows
     - **Wayne Technologies**: Description, image and learn more button.
     - **Wayne Biotech**: Description, image and learn more button.
     - **Wayne Aerospace**: Description, image and learn more button.
+    ![ScreenShot of Corporate Subsidiaries Page Subsidiaries Section on different devices ](documentation/device-pages-screenshots/device-screenshots-subsidiaries-page-2.jpg)
 - **Map Section**:
     - Section with a map of the main location that the company has and a list with the name and location
+    ![ScreenShot of Corporate Subsidiaries Page Subsidiaries Section on different devices ](documentation/device-pages-screenshots/device-screenshots-subsidiaries-page-3.jpg)
 
-### Services and Products Page
-- Navabar and Footer
-- **Technology Solutions**: Detailed descriptions of products and services offered by Wayne Technologies.
-- **Healthcare Innovations**: Details on biotech products and services.
-- **Aerospace Projects**: Information on aerospace developments and innovations.
 
-### Financial Relations Page
+### Investor Relations Page
 - Navbar and Footer
-- **Financial Reports**: 
-    - Access to financial statements, annual reports, and earnings calls.
-- **Stock Information**: 
+- **Hero Sectio**
+    - Hero section with image and a statement regarding ivenstor relations
+    ![ScreenShot of Investor Relations Page Hero Section on different devices ](documentation/device-pages-screenshots/device-screenshots-investor-relations-page-1.jpg)
+- **Stock Information & Financial Reports**: 
     - Current stock price and performance data.
+    - Access to financial statements, annual reports, and earnings calls.
+    - User can view/download these reports in seperate tabs
+    ![ScreenShot of Investor Relations Page Financial Section on different devices ](documentation/device-pages-screenshots/device-screenshots-investor-relations-page-1.jpg)
 - **Press Releases**: 
     - Latest press releases and media coverage.
-- **Newsletter Signup**: 
-    - Option to subscribe for regular updates.
+    ![ScreenShot of Investor Relations Page Press Releases Section on different devices ](documentation/device-pages-screenshots/device-screenshots-investor-relations-page-1.jpg)
+    - User can view/download these press releases in seperate tabs
 
 ### Careers Page
 - Navabar and Footer
 - **Hero Section**:
     - Hero section with background image showing a welcoming and exciting work environmnent and call to action
+    ![ScreenShot of Careers Page Hero Section on different devices ](documentation/device-pages-screenshots/device-screenshots-careers-page-1.jpg)
 - **Job Listings**: 
     - List of current job openings with descriptions and application links.
+    ![ScreenShot of Careers Page Job Listing Section on different devices ](documentation/device-pages-screenshots/device-screenshots-careers-page-1.jpg)
 - **Employee Benefits**: 
     - Overview of benefits offered to employees.
+    ![ScreenShot of Careers Page Benefits Section on different devices ](documentation/device-pages-screenshots/device-screenshots-careers-page-2.jpg)
+    - These Benefit boxes have hover effects that reveal more information
+
+    |Orginal|Hover|
+    |:-:|:-:|
+    |<img width="360" alt="Desktop Footer" src="documentation/compnent-sreenshots/compnent-sreenshots-benefit-hover.png">|<img width="360" alt="Desktop Footer" src="documentation/compnent-sreenshots/compnent-sreenshots-benefit-og.png">|
+
+
 - **Company Culture**: 
-    - Testimonials, work environment, and professional development opportunities.
+    - Section image and statement about the company culture.
+    ![ScreenShot of Careers Page Company Culure Section on different devices ](documentation/device-pages-screenshots/device-screenshots-careers-page-3.jpg)
 - **Internship Opportunities**: 
     - Information on available internships.
+    ![ScreenShot of Careers Page Interships Section on different devices ](documentation/device-pages-screenshots/device-screenshots-careers-page-4.jpg)
 
 ### Contact Us Page
 - Navbar and Footer
-- **Office Locations**: 
-    - Map and addresses of Wayne Enterprises’ offices.
-- **Contact Form**: 
-    - Fields for name, email, and message for general inquiries.
-- **Customer Support**: 
-    - Support contact information.
-- **Media Inquiries**: 
-    - Contact details for media inquiries.
+- **Hero Section**:
+    - Hero section with icons, image and a statement
+     ![ScreenShot of Contact Page Hero Section on different devices ](documentation/device-pages-screenshots/device-screenshots-contact-us-page-1.jpg)
+- **Office Locations & Contact Form**: 
+    ![ScreenShot of Contact Page Contact Info and Form Section on different devices ](documentation/device-pages-screenshots/device-screenshots-contact-us-page-2.jpg)
 - **FAQ Section**
-    - Section with most frequently asked questions
+    - Section with most frequently asked questions in an accordion
+    ![ScreenShot of Contact Page FAQ Section on different devices ](documentation/device-pages-screenshots/device-screenshots-contact-us-page-3.jpg)
 
+### Under Construction Page
+- Navbar and footer
+- Icon and Logo with text saying the page is still under construction
+- redirect any unfinished pages here 
+    ![ScreenShot of Under Construction Page on different devices ](documentation/device-pages-screenshots/device-screenshots-contact-us-page-1.jpg)
+
+## Accesibility
+
+- Using semantic HTML elements
+- Using hover states on buttons to provide userss visual feedback 
+- Ensuring that the background always has enough contrast with the text to make it readable
+- checking for prefers-reduced-motion to disable animations for users who don't want them
+
+## Feedback
+
+-> During the course of the development of this project I had access sessions with my mentor to recieve feedback, some valuable feedback given that has contributed to the project are:
+ - add screenshots to each page and feature described in the readme
+ - add a seperate TESTING.md file for the testing
+ - do extensive manual test on each compent of each page and document them
+ - add Favicons to each page of the website
 
 ## Testing
 
@@ -420,6 +479,8 @@ HTML/CSS: used for site structure and style
 [sqoosh.app](https://squoosh.app) used to compress images and convert them to webp
 
 [videosmaller.com]() used to compress videos 
+
+[techsini.com/multi-mockup/](http://techsini.com/multi-mockup/index.php) used to create multi-device mockups
 
 ## Gitpod Reminders
 
