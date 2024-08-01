@@ -2,6 +2,8 @@
 
 A website for the fictional conglomerate Wayne Enterprises
 
+View Site -> [Wayne Enterprises](https://mattds825.github.io/Wayne-Enterprises/)
+
 ![ScreenShot of Home Page Hero on different devices ](documentation/device-pages-screenshots/device-screenshots-home-page-1.jpg)
 
 - - -
@@ -478,11 +480,45 @@ HTML/CSS: used for site structure and style
 
 [sqoosh.app](https://squoosh.app) used to compress images and convert them to webp
 
-[videosmaller.com]() used to compress videos 
+[videosmaller.com](https://www.videosmaller.com/) used to compress videos 
 
 [techsini.com/multi-mockup/](http://techsini.com/multi-mockup/index.php) used to create multi-device mockups
 
-## Gitpod Reminders
+
+## Deployment and Local Development
+
+### Deployment
+
+Site deployed using [GitHub Pages](https://pages.github.com/) at [Wayne Enterprises](https://mattds825.github.io/Wayne-Enterprises/)
+
+-> **Steps to deploy a website using GitHub Pages**
+
+1. Open your github repositroy
+2. Open the settings
+3. Select 'Pages' from the side menu
+4. Select the branch you want to deply from the dropdown
+
+Concise steps can be found [here](https://www.codecademy.com/article/f1-u3-github-pages)
+
+### Local Development
+
+#### How to Fork
+
+1. Log in or Create a GitHub account
+2. go the repository page [github.com/Mattds825/Wayne-Enterprises](https://github.com/Mattds825/Wayne-Enterprises?tab=readme-ov-file)
+3. click the fork button 
+
+Concise steps can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) 
+
+#### How to Clone
+
+1. Open the folder where you would like to clone the project
+2. Open a terminal window
+3. Enter the following command: <code>git clone https://github.com/Mattds825/Wayne-Enterprises.git</code>
+
+Concise steps can be found [here](https://github.com/git-guides/git-clone)
+
+#### How to run (Gitpod)
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
