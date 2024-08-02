@@ -442,6 +442,10 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 |<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-head-tags-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-head-tags-after.png">|
 
 
+#### Steps taken to imporve SEO
+
+-> added meta description tags to each page in the website 
+
 ## Credits
 
 ### Media
