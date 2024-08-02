@@ -441,10 +441,20 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 |:-:|:-:|
 |<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-head-tags-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-head-tags-after.png">|
 
+-> Changing the h1 animation had extreme imporvements in index.html and about-us.html
+    - was previously using an [animation](https://animista.net/play/text/tracking-out) that effected the <code>letter-spacing</code> of the text, this cuased the layout to go through various shifts and greatly icreased load time
+    - changing this animation to a [simpler one](https://animista.net/play/text/focus-in) that only used <code>filter</code> fixed this issue imporving the laod speed from around 90 to 99 in index.html and up to 95 in about-us.html.
+    - I could probably see the same results in about-us.html but the video file used in the hero section is significantly larger, but I am happy with the score of 95 in performance
+    
+|Before|After|
+|:-:|:-:|
+|<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-animation-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-animation-after.png">|
+
 
 #### Steps taken to imporve SEO
 
--> added meta description tags to each page in the website 
+-> added meta description tags to each page in the website
+ - this increase the SEO score in lighthouse from 82 to 91
 
 ## Credits
 
