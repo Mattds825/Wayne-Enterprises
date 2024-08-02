@@ -378,6 +378,9 @@ The home page is the first page the user will see. It will be clean and inviting
 - Ensuring that the background always has enough contrast with the text to make it readable
 - checking for prefers-reduced-motion to disable animations for users who don't want them
 
+- used <code>title</code> attribute on links
+- used <code><span></code> instead of <code><i></code> for icons
+
 ## Feedback
 
 -> During the course of the development of this project I had access sessions with my mentor to recieve feedback, some valuable feedback given that has contributed to the project are:
@@ -451,10 +454,67 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 |<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-animation-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-animation-after.png">|
 
 
+### Accesibility Testing 
+
+I used the web inspector [Audit Tool](https://developer.apple.com/videos/play/wwdc2019/514/#:~:text=Audits%20and%20audit%20results%20can,the%20nodes%20in%20the%20report.) to find accesibility issues on my website.
+
+I also used [AC checker](https://websiteaccessibilitychecker.com/checker/index.php) to check for accesibility complience. 
+
+In the audio I manged to get all scores up to 100%
+
+and in the AC checker I managed to remove all errors except for one regarding the heading nesting in my footer. But this didnt effect the Accesibiblty Audit so I left it.
+
+-> **Home Page Accesibililty Audit**
+
+![Home Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-home-page.png)
+
+-> **About Us Page Accesibililty Audit**
+
+![About Us Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-about-us-page.png)
+
+-> **Subsidiaries Page Accesibililty Audit**
+
+![Subsidiaries Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-subsidiaries-page.png)
+
+-> **Corporate Responsibility Page Accesibililty Audit**
+
+![Corporate Responsibility Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-corporate-responsibility-page.png)
+
+-> **Investor Relations Page Accesibililty Audit**
+
+![Investor Relations Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-investor-relations-page.png)
+
+-> **Contact Page Accesibililty Audit**
+
+![Contact Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-contact-page.png)
+
+-> **Careers Page Accesibililty Audit**
+
+![Careers Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-careers-page.png)
+
+-> **Under Construction Page Accesibililty Audit**
+
+![Under Construction Page Accesibililty Audit](documentation/accesibility-tests/accesibility-audits/accesibility-audit-under-construction-page.png)
+
+
+#### Steps taken to improve Accesibility
+
+- used <code>title</code> attribute on links
+- used <code>span</code> instead of <code>i</code> for icons
+
+these two saw improvements in Accesibillity results on both the Audit and the AC checker
+
+|Before|After|
+|:-:|:-:|
+|<img width="360" alt=" AC Test Before" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-ac-before.png">|<img width="360" alt="AC Test After" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-ac-after.png">|
+|<img width="360" alt=" Audit Test Before" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-audit-before.png">|<img width="360" alt="Audit Test After" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-audit-after.png">|
+
+
 #### Steps taken to imporve SEO
 
 -> added meta description tags to each page in the website
  - this increase the SEO score in lighthouse from 82 to 91
+
 
 ## Credits
 
@@ -510,6 +570,7 @@ HTML/CSS: used for site structure and style
 
 [techsini.com/multi-mockup/](http://techsini.com/multi-mockup/index.php) used to create multi-device mockups
 
+[redketchup.io/favicon-generator](https://redketchup.io/favicon-generator) used to generate favicon
 
 ## Deployment and Local Development
 
