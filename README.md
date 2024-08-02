@@ -432,6 +432,16 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 
 -> added poster tag to videos
 
+-> modyfing import scripts and links in head tag to "reduce block-size rendering"
+    - added <code>defer = ""</code> attribute to 3rd party scripts
+    - added <code>rel="preload" as="style" onload="this.rel='stylesheet'"</code> attribute to 3rd party links (bootsrap)
+    - this saw a lighthouse increase of 88 to 90 on my index.html page which is one of the heaviest pages
+    - these results where comperable in other pages generally going from 95 to 98
+|Before|After|
+|:-:|:-:|
+|<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-head-tags-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-head-tags-after.png">|
+
+
 ## Credits
 
 ### Media
@@ -461,6 +471,8 @@ Map SVG from [simplemaps](https://simplemaps.com/resources/svg-world)
 -> Used [Animasta](https://animista.net/play/text/tracking-in/tracking-in-contract) for text tracking in animation css code
 
 -> Followed this [tutorial](https://www.youtube.com/watch?v=sORoAeGhlj0) to make the elements animate on scroll in main.js file
+
+-> read this [thread](https://stackoverflow.com/questions/49268352/preload-font-awesome) and this [article](https://blog.pragmatists.com/optimise-your-website-in-5-simple-steps-ce7b88dd3778) to better understand how to optimize my imports
 
 ### Techonologies and Tools Used
 
