@@ -458,6 +458,11 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 |:-:|:-:|
 |<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-smaller-video-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-smaller-video-after.png">|
 
+-> added smaller images to pages where the image load was generating  a lighthouse warning, set images that don't appear immediatly to <code>loading="lazy"</code>
+- saw minor improvements in mobile performace scores
+|Before|After|
+|:-:|:-:|
+|<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-responsive-images-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-responsive-images-after.png">|
 
 ### Accesibility Testing 
 
@@ -513,7 +518,6 @@ these two saw improvements in Accesibillity results on both the Audit and the AC
 |:-:|:-:|
 |<img width="360" alt=" AC Test Before" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-ac-before.png">|<img width="360" alt="AC Test After" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-ac-after.png">|
 |<img width="360" alt=" Audit Test Before" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-audit-before.png">|<img width="360" alt="Audit Test After" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-audit-after.png">|
-
 
 #### Steps taken to imporve SEO
 
