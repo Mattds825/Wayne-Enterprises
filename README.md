@@ -453,6 +453,11 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 |:-:|:-:|
 |<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-animation-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lightouse-test-improvement-animation-after.png">|
 
+-> Adding a smaller video file that only gets shown to mobile devices, had a big inprovement in perfomance on mobile test (no efffect on desktop tests)
+|Before|After|
+|:-:|:-:|
+|<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-smaller-video-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-smaller-video-after.png">|
+
 
 ### Accesibility Testing 
 

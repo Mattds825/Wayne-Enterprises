@@ -80,7 +80,9 @@
             <div class="video-overlay"></div>
             <video autoplay muted loop playsinline poster="assets/images/video-posters/home-page-hero-video-poster.webp"
                 class="hero-video">
-                <source src="assets/videos/home-page-hero-video.mp4" type="video/mp4">
+                <!-- show larger video only to desktops -->
+                <source src="assets/videos/home-page-hero-video.mp4" type="video/mp4" media="(min-width: 760px)">
+                <source src="assets/videos/home-page-hero-video-small.mp4" type="video/mp4">
             </video>
             <div class="hero-content">
                 <img class="hero-logo fade-in" src="assets/images/wayne-enterprises-logo-light.svg"
