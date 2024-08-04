@@ -1,14 +1,53 @@
 # Wayne Enterprises
 
-A website for the fictional conglomerate Wayne Enterprises
+A fan-made website for the fictional conglomerate Wayne Enterprises
+
+"Wayne Enterprises (formerly WayneCorp) is a company in the DC Universe. Wayne Enterprises is owned by billionaire Bruce Wayne and run by his business manager Lucius Fox. It was founded by merchant ancestors of the Wayne family in the 17th century as a merchant house. It changed and gradually grew when it was officially erected in the 19th century when Alan Wayne, heir to Solomon Wayne, founded Wayne Shipping and Wayne Chemical. Along with Wayne Manufacturing, which came later, the Industrial Revolution fueled Wayne Enterprises into becoming a major powerhouse."
+
+[Batman Wiki](https://batman.fandom.com/wiki/Wayne_Enterprises)
 
 View Site -> [Wayne Enterprises](https://mattds825.github.io/Wayne-Enterprises/)
 
 ![ScreenShot of Home Page Hero on different devices ](documentation/device-pages-screenshots/device-screenshots-home-page-1.jpg)
 
+## Contents
+
+- [User Experience](#user-experience-ux)
+    * [Project Goals](#project-goals)
+        - [User Goals](#user-goals)
+        - [Business Goals](#business-goals)
+    * [User Stories](#user-stories)
+        - [General Info](#general-info)
+        - [Potential Investors](#potential-investors)
+        - [Potential Empolyees](#potential-employee)
+- [Design](#design)
+    * [Color Pallete](#color-pallete)
+    * [Typography](#typography)
+    * [Imagery](#imagery)
+    * [Wireframes](#wireframes)
+- [Features](#features)
+    * [All Pages](#all-pages)
+    * [Home Page](#home-page)
+    * [About Us Page](#about-us-page)
+    * [Corporate Responsibility Page](#corporate-resposibility-page)
+    * [Subsidiaries Page](#subsidiaries-page)
+    * [Investor Relations Page](#investor-relations-page)
+    * [Careers Page](#careers-page)
+    * [Contact Us Page](#contact-us-page)
+    * [Under Construction Page](#under-construction-page)
+- [Accesibility](#accesibility)
+- [Feedback](#feedback)
+- [Credits](#credits)
+    * [Media](#media)
+    * [Code and Resources Used](#code-and-resources-used)
+    * [Technology and Tools Used](#techonologies-and-tools-used)
+- [Deployment](#deployment)
+
+
+
 - - -
 
-## User Experience UX
+## User Experience (UX)
 
 ### Project Goals
 
@@ -93,8 +132,6 @@ Situation: Someone is interested in buying a piece of technology from one of the
 
 
 #### Potential Investors 
-
-### Potential Investor
 
 Situation: An investor in looking to expand their portfolio and has heard some word for mouth and read some news about Wayne Enterprises. He wants to get as much information about the company as he can to make an informed decision.
 
@@ -282,7 +319,7 @@ The home page is the first page the user will see. It will be clean and inviting
     - On Larger devices like tablets and desktop these are shown as 3 columns and on mobile these are shown as a carousel
     ![ScreenShot of About Us Leadership Section on different devices ](documentation/device-pages-screenshots/device-screenshots-about-us-page-4.jpg)
 
-### Corporate Resposibility
+### Corporate Resposibility Page
 - Navbar and Footer
 - **Three Tenets Section**:
     - section that highlights the three main tentes of the company and with large icons
@@ -297,7 +334,7 @@ The home page is the first page the user will see. It will be clean and inviting
     - Details on community involvement and projects. Has carousel of articles of community projects
     ![ScreenShot of Corporate Responsibility Community Projects Section on different devices ](documentation/device-pages-screenshots/device-screenshots-corporate-responsibility-page-3.jpg)
 
-### Subsidiaries
+### Subsidiaries Page
 - Navbar and Footer
 - **Hero Section**
     - Image that represent global reach and has text "Meet the Family"
@@ -403,7 +440,11 @@ Video taken from [pixabay.com](https://pixabay.com/)
 
 Map SVG from [simplemaps](https://simplemaps.com/resources/svg-world)
 
-### Code Used
+### Code and Resources Used
+
+-> website based on lore by [DC comics](https://www.dc.com/)
+
+-> Used [Batman Wiki](https://batman.fandom.com/wiki/Wayne_Enterprises) for research
 
 -> Navbar made from navabr template from [Bootrap](https://getbootstrap.com/docs/5.3/components/navbar/)
 
@@ -438,6 +479,8 @@ HTML/CSS: used for site structure and style
 [ChatGpt](https://chatgpt.com/): used for text content on the website, e.g. article content
 
 [Pixelmator Pro](https://www.pixelmator.com/pro/) - Used to edit timeline photos to make them apear era authentic
+
+[Balsamiq](https://balsamiq.com/) - Used to make wireframes
 
 [Perchance](https://perchance.org/ai-photo-generator) image generator used to make profile pictures for leadership figures
 
