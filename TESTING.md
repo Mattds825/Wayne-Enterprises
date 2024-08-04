@@ -39,16 +39,85 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 
 -> [under-construction.html](documentation/w3c-html-test/under-construction-html-test-post.pdf): Passed all tests
 
-## Perfomance Testing 
+## Perfomance Testing
 
-Used Google Lighouse testing
+Used Google Lightouse testing
 
 scores are defined by Google as follows
 
 ![Google Lighouse Score Breakdown](documentation/lighthouse-score-explained.png)
 [source](https://developer.chrome.com/docs/lighthouse/performance/performance-scoring)
 
---> insert lighthouse tests here 
+- scores where obtained by running Lighthouse on Chrome Developer on each page around 5 for mobhile and desktop times and the highest score was taken. From this it is important ot note that the Lighthouse score can vary each time yoou run the test thus should be taken as a metric and not an absolute.
+
+-> **Home Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-home-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-home-page-mobile.png">|
+
+-> **About Us Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-about-us-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-about-us-page-mobile.png">|
+
+-> **Subsidiaries Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-subsidiaries-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-subsidiaries-page-mobile.png">|
+
+-> **Corporate Responsibility Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-corporate-responsibility-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-corporate-responsibility-page-mobile.png">|
+
+-> **Investor Relations Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-investor-relations-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-investor-relations-page-mobile.png">|
+
+-> **Contact Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-contact-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-contact-page-mobile.png">|
+
+-> **Careers Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-careers-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-careers-page-mobile.png">|
+
+-> **Under Construction Page**
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/pages-tests/lightouse-test-under-construction-page-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/pages-tests/lightouse-test-under-construction-page-mobile.png">|
+
+### Considerations For Test Results
+
+Through some research I have found that the largest factors holding the score back are the following. I did take a lot of step to improve my store and these are related in the following section. But keep working on the score further woudl be a large time sink and would yield diminishing returns. Even according to Google: "taking a score from 99 to 100 needs about the same amount of metric improvement that would take a 90 to 94." [source](https://developer.chrome.com/docs/lighthouse/performance/performance-scoring) 
+
+Improvement could be made but would require possible restructuring of the project or remove features that help the site stand out and is beyond the scope of the project. The following improvements could be considered if Lighouse score close to 100 on all test where needed:
+
+-> **Boostrap**: this is a 3rd part import and takes up load resources
+- could be improved import boostrap locally
+- minifying boostrap css
+- use a library like tailwind that purges unused css
+
+->**Google Fonts**: this is a 3rd party font library that takes up load resources
+- could locally import fonts to improve
+- could compress fonts
+
+->**Font Awesome**: This is a 3rd party icon libray that takes up load resources
+
+->**Animations**: This animations take up contant load time
+- could remove animations
+
 
 ### Steps Taken to improve performance
 
@@ -148,3 +217,13 @@ these two saw improvements in Accesibillity results on both the Audit and the AC
 -> added meta description tags to each page in the website
  - this increase the SEO score in lighthouse from 82 to 91
 
+
+## Manual Tests
+
+### User Story Testing
+
+--> Insert full user testing here
+
+### Full Testing
+
+--> Insert Full Testing Here
