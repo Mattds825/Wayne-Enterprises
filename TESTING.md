@@ -283,6 +283,39 @@ these two saw improvements in Accesibillity results on both the Audit and the AC
 
 ### User Story Testing
 
+These are test carried out to match the User Stories defined in [README.md](README.md)
+
+-> **General Information Seeker**
+
+| Goals| How are they acheived|
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| User should be greeted with a clean website and some information they can read about the company | The Home page has a smooth animation and a professional look. The use can view some of the most recent newsletter stories if they scroll dow      |
+| User should be able to easily navigate between pages                                             | The navigation bar gives users quick access to the most important pages and the footer gives them quick links to pages they might be looking for  |
+| User should be able to find information on general question                                      | The user can view the FAQ section in the contact page, they can also access this from the quick link in the footer                                |
+| User should be able to find information about the company's values                               | The user can navigate to the corporate responsibility page to view all the initiatives and values of the company                                  |
+| User can find information about the Company's Subsidiaries                                       | The user can find this information in the Subsidiaries page                                                                                       |
+| The site should be responsive on whatever device the user has                                    | The site has a responsive layout that changes for desktop, tablet and mobile                                                                      |
+
+-> **Pontential Investor**
+
+The goals from the privous group carry over
+
+| Goals| How are they acheived|
+|------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| User should be able to see financial status of the company | The investor relations shows the current stock graph                                            |
+| User should be able to view financial reports              | The Investor Relations page allows the user to view latest financial reports and press releases |
+
+-> **Potential Employees**
+
+The goals from the General Info user carry over
+
+| Goals| How are they acheived|
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| User should be able to find the careers page                                  | Careers page position in footer as is standard on most company websites              |
+| User should be able to browse job openings                                    | The Careers page shows all the recent job openings                                   |
+| User should be able to see Employee Benefits and Company Values               | The Careers page shows the benefits in a nice way and highlight the company values   |
+| User should be able to see information about Interships and Register Interest | The Careers page has a Internships section that allows the user to register interest |
+
 --> Insert full user testing here
 
 ### Full Testing

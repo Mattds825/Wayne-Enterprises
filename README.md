@@ -492,6 +492,8 @@ HTML/CSS: used for site structure and style
 
 [redketchup.io/favicon-generator](https://redketchup.io/favicon-generator) used to generate favicon
 
+[tablesgenerator.com/markdown_tables#](https://www.tablesgenerator.com/markdown_tables#) used to generate the tables for TESTING.md
+
 ## Deployment and Local Development
 
 ### Deployment
