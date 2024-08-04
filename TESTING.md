@@ -11,6 +11,12 @@
 
 ## Automated Testing 
 
+### CSS Validator
+
+Used [W3C Schools CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmattds825.github.io%2FWayne-Enterprises%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![CSS validation test](documentation/css-validator-test-result.png)
+
 ### W3C HTML validator 
 
 used [W3C Nu HTML Checker](https://validator.w3.org/)
@@ -77,6 +83,7 @@ scores are defined by Google as follows
 
 -> added smaller images to pages where the image load was generating  a lighthouse warning, set images that don't appear immediatly to <code>loading="lazy"</code>
 - saw minor improvements in mobile performace scores
+
 |Before|After|
 |:-:|:-:|
 |<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-responsive-images-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-responsive-images-after.png">|
