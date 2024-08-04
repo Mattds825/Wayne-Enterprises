@@ -316,8 +316,19 @@ The goals from the General Info user carry over
 | User should be able to see Employee Benefits and Company Values               | The Careers page shows the benefits in a nice way and highlight the company values   |
 | User should be able to see information about Interships and Register Interest | The Careers page has a Internships section that allows the user to register interest |
 
---> Insert full user testing here
-
 ### Full Testing
 
---> Insert Full Testing Here
+For tesing the following devices where used
+
+- Macbook por 13", also on 27" monitor
+- Iphone 15
+- Iphone 13 pro max
+- Ipad pro 12"
+
+Also the following browsers where tested 
+
+- Safari 
+- Chrome
+
+-> **Home Page**
+
