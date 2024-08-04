@@ -1,17 +1,42 @@
 
 # Wayne Enterprises Testing
 
+View Site -> [Wayne Enterprises](https://mattds825.github.io/Wayne-Enterprises/)
+
+![ScreenShot of Home Page Hero on different devices ](documentation/device-pages-screenshots/device-screenshots-home-page-1.jpg)
+
+- - -
+
+## CONTENTS
+
+- [Solved Bugs](#solved-bugs)
+- [Automated Testing](#automated-testing)
+    * [W3C CSS Validator](#w3c-css-validator)
+    * [W3C HTML Validator](#w3c-html-validator)
+- [Performace Testing](#perfomance-testing)
+    * [Considerations for Test Results](#considerations-for-test-results)
+    * [Steps taken to Improve Performace](#steps-taken-to-improve-performance)
+    * [Performace Score Research](#perfomrance-score-research)
+- [Accesibility Testing](#accesibility-testing)
+    * [Steps Taken to Improve Accesibililty](#steps-taken-to-improve-accesibility)
+- [SEO](#seo)
+    * [Steps Taken to Improve SEO](#steps-taken-to-imporve-seo)
+- [Manual Testing](#manual-testing)
+    * [User Story Testing](#user-story-testing)
+    * [Full Testing](#full-testing)
+
+
 ## Solved Bugs
 
 | Bug | Solution |
 | ---| ----|
 |hero video was not playing in mobile| added playsinline tag to video|
 
-
+I did not encounter many bugs as this is a static page, most issues were solved during the development cycle
 
 ## Automated Testing 
 
-### CSS Validator
+### W3C CSS Validator
 
 Used [W3C Schools CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmattds825.github.io%2FWayne-Enterprises%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
@@ -157,6 +182,31 @@ Improvement could be made but would require possible restructuring of the projec
 |:-:|:-:|
 |<img width="360" alt="Test Before" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-responsive-images-before.png">|<img width="360" alt="Test After" src="documentation/lighthouse-test/improvement-showcase/lighthouse-test-improvement-responsive-images-after.png">|
 
+### Perfomrance Score Research
+
+I wanted to do some light research to see the performance score on similar website, that being a conglomerate company that has a website that showcase their subsidiaries and industries they work in. I did this to compare to the score that I have achieved and see how they fare in relation to professional websites. The test was only conducted onm the home page of each site, and was repeated a few times to ensure the best score. Note: I appriciate that these websites probably have much heavier 3rd party dependencies than mine, so this test should not be taken as a direct comparison.
+
+-> **ABB Group**
+[page link](https://global.abb/group/en)
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/performace-research/lighthouse-research-test-abb-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/performace-research/lighthouse-research-test-abb-mobile.png">|
+
+-> **General Motors**
+[page link](https://www.gm.com/)
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/performace-research/lighthouse-research-test-gm-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/performace-research/lighthouse-research-test-gm-mobile.png">|
+
+->**General Electrics**
+[page link](https://www.ge.com/)
+
+|Desktop|Mobile|
+|:-:|:-:|
+|<img width="360" alt="Test Desktop" src="documentation/lighthouse-test/performace-research/lighthouse-research-test-ge-desktop.png">|<img width="360" alt="Test Mobile" src="documentation/lighthouse-test/performace-research/lighthouse-research-test-ge-mobile.png">|
+
 ## Accesibility Testing 
 
 I used the web inspector [Audit Tool](https://developer.apple.com/videos/play/wwdc2019/514/#:~:text=Audits%20and%20audit%20results%20can,the%20nodes%20in%20the%20report.) to find accesibility issues on my website.
@@ -212,13 +262,15 @@ these two saw improvements in Accesibillity results on both the Audit and the AC
 |<img width="360" alt=" AC Test Before" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-ac-before.png">|<img width="360" alt="AC Test After" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-ac-after.png">|
 |<img width="360" alt=" Audit Test Before" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-audit-before.png">|<img width="360" alt="Audit Test After" src="documentation/accesibility-tests/improvement-showcase/accesibility-improvement-audit-after.png">|
 
+## SEO
+
 ### Steps taken to imporve SEO
 
 -> added meta description tags to each page in the website
  - this increase the SEO score in lighthouse from 82 to 91
 
 
-## Manual Tests
+## Manual Testing
 
 ### User Story Testing
 
