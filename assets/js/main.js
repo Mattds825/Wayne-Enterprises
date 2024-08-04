@@ -1,4 +1,6 @@
-const animation_elements = document.querySelectorAll(".fade-in-on-scroll")
+/*jshint esversion: 6 */
+
+const animation_elements = document.querySelectorAll(".fade-in-on-scroll");
 const isReduced = window.matchMedia(`(prefers-reduced-motion: reduce)`) === true || window.matchMedia(`(prefers-reduced-motion: reduce)`).matches === true;
 
 
@@ -16,10 +18,10 @@ const observer = new IntersectionObserver((entries) => {
         } else {
             if (entry.isIntersecting) {
                 entry.target.classList.add("fade-in");
-                entry.target.classList.remove("fade-in-on-scroll") 
+                entry.target.classList.remove("fade-in-on-scroll");
             }
         }
-    })
+    });
 }, {
     threshold: 0.2
 });

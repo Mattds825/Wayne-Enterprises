@@ -13,6 +13,7 @@ View Site -> [Wayne Enterprises](https://mattds825.github.io/Wayne-Enterprises/)
 - [Automated Testing](#automated-testing)
     * [W3C CSS Validator](#w3c-css-validator)
     * [W3C HTML Validator](#w3c-html-validator)
+    * [Js Validator](#js-validator)
 - [Performace Testing](#perfomance-testing)
     * [Considerations for Test Results](#considerations-for-test-results)
     * [Steps taken to Improve Performace](#steps-taken-to-improve-performance)
@@ -64,9 +65,17 @@ please refer to the w3c-html-tests folder in the the documentation folder to vie
 
 -> [under-construction.html](documentation/w3c-html-test/under-construction-html-test-post.pdf): Passed all tests
 
+### JS Validator
+
+used [JsHint](https://jshint.com/) to validate main.js file
+
+-> main.js: **Passed**
+
+![Js Validator](documentation/js-valiator-test-result.png)
+
 ## Perfomance Testing
 
-Used Google Lightouse testing
+Used [Google Lightouse](https://developer.chrome.com/docs/lighthouse/overview) for testing
 
 scores are defined by Google as follows
 
