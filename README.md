@@ -408,6 +408,15 @@ The home page is the first page the user will see. It will be clean and inviting
 - redirect any unfinished pages here 
     ![ScreenShot of Under Construction Page on different devices ](documentation/device-pages-screenshots/device-screenshots-contact-us-page-1.jpg)
 
+### Form Completion Page
+
+- Navbar and footer
+- Icon and Logo with text saying the page is still under construction
+- redirect any form submissions 
+    ![ScreenShot of Under Construction Page on different devices ](documentation/device-pages-screenshots/device-screenshots-form-completion-page-1.png)
+
+
+
 ## Accesibility
 
 - Using semantic HTML elements
