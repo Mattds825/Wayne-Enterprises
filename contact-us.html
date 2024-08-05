@@ -105,22 +105,22 @@
                     </div>
                     <div class="col-md-6 fade-in-on-scroll">
                         <h2>Get in Touch</h2>
-                        <form>
+                        <form action="form-completion.html">
                             <div class="form-group my-3">
                                 <label for="name">Name</label>
-                                <input type="text" class="form-control" id="name" required>
+                                <input type="text" class="form-control" id="name" required pattern=".*\S+.*" title="Full Name" >
                             </div>
                             <div class="form-group my-3">
                                 <label for="email">Email</label>
-                                <input type="email" class="form-control" id="email" required>
+                                <input type="email" class="form-control" id="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" title="Email Address">
                             </div>
                             <div class="form-group my-3">
                                 <label for="subject">Subject</label>
-                                <input type="text" class="form-control" id="subject" required>
+                                <input type="text" class="form-control" id="subject" required pattern=".*\S+.*">
                             </div>
                             <div class="form-group my-3">
                                 <label for="message">Message</label>
-                                <textarea class="form-control" id="message" rows="5" required></textarea>
+                                <textarea class="form-control" id="message" rows="5" required pattern=".*\S+.*"></textarea>
                             </div>
                             <button type="submit" class="cta-button">Send Message</button>
                         </form>

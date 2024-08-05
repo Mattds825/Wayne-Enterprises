@@ -466,6 +466,8 @@ Map SVG from [simplemaps](https://simplemaps.com/resources/svg-world)
 
 -> read this [thread](https://stackoverflow.com/questions/49268352/preload-font-awesome) and this [article](https://blog.pragmatists.com/optimise-your-website-in-5-simple-steps-ce7b88dd3778) to better understand how to optimize my imports
 
+-> read this [thread](https://stackoverflow.com/questions/13766015/is-it-possible-to-configure-a-required-field-to-ignore-white-space) and this [thread](https://stackoverflow.com/questions/5601647/html5-email-input-pattern-attribute) on to add the pattern recognition to forms
+
 ### Techonologies and Tools Used
 
 Gitpod/Vscode: Used for code editing
